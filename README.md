@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi there, I'm Felipe Alberto Butzke 👋
 
-<!--
-**AlbertButzke/AlbertButzke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Data Scientist with a strong analytical background (MSc Physics – Cosmology & Bayesian Statistics). I have 6+ years of experience with Python for data analysis and modeling, specializing in translating complex data into actionable business insights through machine learning, statistical modeling, and interactive dashboards.
 
-Here are some ideas to get you started:
+### My Main Fields of Interest:
+* Bayesian Inference & Cosmology
+* Statistical Modeling & Data Pipelines
+* Uncertainty Quantification & Bias Diagnosis
+* Technical Storytelling & Data Visualization
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### I am open to work with:
+* Data Science
+* Data Analysis
+* Generative AI (GenIA) & Large Language Models (LLMs)
+* Machine Learning
+
+---
+
+## Skills:
+
+### Languages & Core:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/sql-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+### Data Science & ML/DL:
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![SciPy](https://img.shields.io/badge/scipy-%238CAAE6.svg?style=for-the-badge&logo=scipy&logoColor=white)
+
+### Visualization & BI:
+![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=for-the-badge&logo=Streamlit&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=Plotly&logoColor=white)
+![Power Bi](https://img.shields.io/badge/power_bi-%23F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=black)
+
+---
+
+## Featured Projects:
+
+* **[Team Liquid Tournament Dashboard](https://team-liquid-earnings.streamlit.app/)** - Web scraping pipeline and interactive Streamlit dashboard for esports tournament data using BeautifulSoup, Pandas, and Plotly.
+* **[Airbnb Market & Risk Analytics Dashboard](https://airbnb-felipe.streamlit.app/)** - Analysis of 43,000+ active listings for pricing strategies, market trends, and localized risk-assessment logic.
+
+---
+
+## Connect with me:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/felipe-alberto-butzke-649986317/)
