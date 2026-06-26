@@ -40,8 +40,7 @@ I am a Data Scientist with a strong analytical background (MSc Physics – Cosmo
 ## Featured Projects:
 
 * **[Team Liquid Tournament Dashboard](https://team-liquid-earnings.streamlit.app/)** - Web scraping pipeline and interactive Streamlit dashboard for esports tournament data using BeautifulSoup, Pandas, and Plotly.
-* **[Airbnb Market & Risk Analytics Dashboard](https://airbnb-felipe.streamlit.app/)** - Analysis of 43,000+ active listings for pricing strategies, market trends, and localized risk-assessment logic.
-
+* **[Airbnb Market & Risk Analytics Dashboard]([https://airbnb-felipe.streamlit.app/](https://github.com/AlbertButzke/Air-BnB))** - This repository contains an end-to-end data science pipeline focused on data cleaning, exploratory analysis, and building predictive models to forecast both **listing prices** and **user ratings** across global markets.
 ---
 
 ## Connect with me:
