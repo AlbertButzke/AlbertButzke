@@ -42,3 +42,24 @@ I am a Data Scientist with a strong analytical background (MSc Physics – Cosmo
 
 * **[Team Liquid Tournament Dashboard](https://team-liquid-earnings.streamlit.app/)** - Web scraping pipeline and interactive Streamlit dashboard for esports tournament data using BeautifulSoup, Pandas, and Plotly.
 * **[Airbnb Market & Risk Analytics Dashboard](https://github.com/AlbertButzke/Air-BnB)** - This repository contains an end-to-end data science pipeline focused on data cleaning, exploratory analysis, and building predictive models to forecast both **listing prices** and **user ratings** across global markets.
+<table align="center">
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <h3>Airbnb Dashboard App</h3>
+      <p>An interactive application developed to analyze Airbnb rental data, offering insights into pricing, availability, and strategic locations.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" alt="Streamlit">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+        <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
+      </p>
+      <br />
+      <a href="https://airbnb-felipe.streamlit.app/" target="_blank">
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://airbnb-felipe.streamlit.app/" target="_blank">
+        <img src="https://github.com/AlbertButzke/Air-BnB/blob/main/image/Airbnb-streamlit-photo.png" alt="Airbnb Streamlit Preview" width="100%" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+      </a>
+    </td>
+  </tr>
+</table>
