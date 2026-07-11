@@ -1,7 +1,7 @@
 # Hi there, I'm Felipe Alberto Butzke 👋
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/felipe-alberto-butzke-649986317/)
 
-I am a Data Scientist with a strong analytical background (MSc Physics – Cosmology & Bayesian Statistics at [IFGW](https://portal.ifi.unicamp.br/) - [Unicamp](https://unicamp.br/), Brazil). I have 6+ years of experience with Python for data analysis and modeling, specializing in translating complex data into actionable business insights through machine learning, statistical modeling, and interactive dashboards.
+I am a physicist with a strong analytical background (MSc Physics – Cosmology & Bayesian Statistics at [IFGW](https://portal.ifi.unicamp.br/) - [Unicamp](https://unicamp.br/), Brazil). I have 6+ years of experience with Python for data analysis and modeling, specializing in translating complex data into actionable insights through statistical inference, modelling and visualization.
 
 ### My Main Fields of Interest:
 * Bayesian Inference & Cosmology
